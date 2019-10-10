@@ -1,4 +1,4 @@
-# OlympicMedalsAnalysis
+# Olympic Medals Analysis
 
 
 Data Manipulation Techniques using pandas implemented on the Summer Olympic games dataset that goes back to 1896. 
